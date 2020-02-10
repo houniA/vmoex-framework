@@ -1,0 +1,3 @@
+[submodule "myproject"]
+	path = myproject
+	url = https://github.com/houniA/myproject.git
